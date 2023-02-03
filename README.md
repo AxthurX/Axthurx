@@ -1,7 +1,6 @@
-
-Arthur martin
+<p>Arthur martins Apenas.</p>
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
-Fala cmg bb
+<p>Fala cmg bb</p>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
@@ -89,10 +88,10 @@ Fala cmg bb
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=codepen" width="65px" alt="Axios icon"/><br>
+      <img src="https://skillicons.dev/icons?i=discord" width="65px" alt="Axios icon"/><br>
       <sub>
         <b>
-          <pre>codepen</pre>
+          <pre>discord</pre>
         </b>
       </sub>
     </td>
@@ -143,6 +142,14 @@ Fala cmg bb
       <sub>
         <b>
           <pre>JQuery</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="JQuery icon"/><br>
+      <sub>
+        <b>
+          <pre>firebase</pre>
         </b>
       </sub>
     </td>
