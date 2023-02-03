@@ -20,8 +20,8 @@ Fala cmg bb
 </table>
 
 <ul align="left">
-    <li>🚩.</li>
-    <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, mas já passei pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
+    <li>🚩 .</li>
+    <li>Fechado com o certo</a>.</li>
     <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
 </ul>
 <br>
@@ -101,6 +101,14 @@ Fala cmg bb
       <sub>
         <b>
           <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>C++</pre>
         </b>
       </sub>
     </td>
@@ -202,8 +210,8 @@ Fala cmg bb
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="https://i.pinimg.com/originals/c5/61/c3/c561c3ecf915d8890dd9829b418d9a00.gif" alt="anime coding">
+<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ S</i></h2>
+<img align="left" width="185px" src="https://i.pinimg.com/originals/6f/79/76/6f797684a8c8c13fee9523c190bf72ec.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="mailto:arthurmartins696@gmail.com" target="_blank">
@@ -211,6 +219,9 @@ Fala cmg bb
   </a>
   <a href="https://www.linkedin.com/in/arthur-martins-a5516214a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
+  </a>
+   <a href="https://wa.me/55669999999999?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp badge">
   </a>
   <a href="https://t.me/Arthur martins" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge">
