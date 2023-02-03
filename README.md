@@ -1,9 +1,11 @@
 
+Arthur martin
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
 Fala cmg bb
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
+
 <table align="center">
   <tr>
     <td>
@@ -18,10 +20,9 @@ Fala cmg bb
 </table>
 
 <ul align="left">
-    <li>🚩🚩🚩🚩🚩🚩 Amo Tecnologia, Psicologia, Animes, Lo-Fi, Xadrez e Parkour.</li>
+    <li>🚩.</li>
     <li>💻 Estudo no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>, mas já passei pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.alura.com.br/" target="_blank">Alura<a/>, <a href="https://estudonauta.com" target="_blank">Estudonauta</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, <a href="https://www.dio.me" target="_blank">DIO<a/> e <a href="https://www.devaria.com.br/" target="_blank">Devaria</a>.</li>
     <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
-    <li>🔮 Estou me especializando em Front-end, mas tenho boas noções de Back-end e Mobile, pois meu objetivo a longo prazo é me tornar Full-Stack.</li>
 </ul>
 <br>
 
@@ -30,34 +31,34 @@ Fala cmg bb
 <table align="right" height="267px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
       <sub>
         <b>
-          <pre>ReactJS</pre>
+          <pre>Angular</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
       <sub>
         <b>
-          <pre>NextJS</pre>
+          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
+      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="javascript icon"/><br>
       <sub>
         <b>
-          <pre>ViteJS</pre>
+          <pre>JavaScript</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
       <sub>
         <b>
-          <pre>Tailwind</pre>
+          <pre>mysql</pre>
         </b>
       </sub>
     </td>
@@ -80,14 +81,6 @@ Fala cmg bb
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
       <sub>
         <b>
@@ -96,10 +89,10 @@ Fala cmg bb
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
+      <img src="https://skillicons.dev/icons?i=codepen" width="65px" alt="Axios icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;Axios&ensp;</pre>
+          <pre>codepen</pre>
         </b>
       </sub>
     </td>
@@ -114,14 +107,6 @@ Fala cmg bb
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br>
-      <sub>
-        <b>
-          <pre>Express</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=regex" width="65px" alt="Regex icon"/><br>
       <sub>
         <b>
@@ -130,18 +115,18 @@ Fala cmg bb
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177148580-f21f8f32-113c-499c-8c4d-f03412137f82.svg" width="65px" alt="Insomnia icon"/><br>
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="65px" alt="Insomnia icon"/><br>
       <sub>
         <b>
-          <pre>Insomnia</pre>
+          <pre>visualstudio</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="postman icon"/><br>
       <sub>
         <b>
-          <pre>React<br>Native</pre>
+          <pre>postman</pre>
         </b>
       </sub>
     </td>
@@ -218,7 +203,7 @@ Fala cmg bb
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<img align="left" width="185px" src="./images/oh-ok.gif" alt="anime coding">
+<img align="left" width="185px" src="https://i.pinimg.com/originals/c5/61/c3/c561c3ecf915d8890dd9829b418d9a00.gif" alt="anime coding">
 <br><br>
 <p align="center">
   <a href="mailto:arthurmartins696@gmail.com" target="_blank">
