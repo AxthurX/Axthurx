@@ -20,14 +20,13 @@
 
 <ul align="left">
     <li>🚩 .</li>
-    <li>Fechado com o certo</a>.</li>
-    <li>🔭 Com mais de 1 ano de <b>experiência</b>, tenho autonomia em diversas das tecnologias Front-end mais relevantes do mercado.</li>
+    <li>Sei la </a>.</li>
 </ul>
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="268px" alt="quote" src="https://images.genius.com/3913d4bdacc72e194aa6fd9361ca0058.640x640x1.jpg"/>
-<table align="right" height="267px">
+<img align="left" width="248px" alt="quote" src="https://images.genius.com/3913d4bdacc72e194aa6fd9361ca0058.640x640x1.jpg"/>
+<table align="right" height="247px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
