@@ -27,7 +27,7 @@
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="248px" alt="quote" src="https://images.genius.com/3913d4bdacc72e194aa6fd9361ca0058.640x640x1.jpg"/>
+<img align="left" width="240px" alt="quote" src="https://images.genius.com/3913d4bdacc72e194aa6fd9361ca0058.640x640x1.jpg"/>
 <table align="right" height="247px">
   <tr>
     <td align="center">
