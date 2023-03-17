@@ -1,6 +1,8 @@
-<p>Arthur martins Apenas.</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=1F6CFF&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=Hello%2C+my+name+is+Arthur+martins" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=1F6CFF&center=verdadeiro&vCenter=falso&repeat=verdadeiro&width=435&lines=Fala+cmg+bb" alt="Typing SVG" /></a>
+
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
-<p>Fala cmg bb</p>
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
