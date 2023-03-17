@@ -8,7 +8,7 @@
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
 
 <table align="center">
-  <tr>
+  <tr alingn="center">
     <td>
       <b>
         <a href="README.md">🇧🇷 Português</a>
