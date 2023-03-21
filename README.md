@@ -27,11 +27,11 @@
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="240px" alt="quote" src="https://images.genius.com/3913d4bdacc72e194aa6fd9361ca0058.640x640x1.jpg"/>
-<table align="right" height="247px">
+<a href="https://ibb.co/0Mhfcdx"><img width="245px" src="https://i.ibb.co/Wygc6YL/garoto-programa.png" alt="garoto-programa" border="0"></a>
+<table align="right" height="250px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
+      <img src="https://skillicons.dev/icons?i=angular" width="55px" alt="Angular icon"/><br>
       <sub>
         <b>
           <pre>Angular</pre>
@@ -39,7 +39,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=ts" width="55px" alt="Typescript icon"/><br>
       <sub>
         <b>
           <pre>Typescript</pre>
@@ -47,7 +47,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=js" width="55px" alt="javascript icon"/><br>
       <sub>
         <b>
           <pre>JavaScript</pre>
@@ -55,7 +55,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="55px" alt="mysql icon"/><br>
       <sub>
         <b>
           <pre>mysql</pre>
@@ -63,7 +63,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55px" alt="Bootstrap icon"/><br>
       <sub>
         <b>
           <pre>Bootstrap</pre>
@@ -73,7 +73,7 @@
   </tr>
     <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br>
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br>
       <sub>
         <b>
           <pre>Styled<br>Components</pre>
@@ -81,7 +81,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br>
+      <img src="https://skillicons.dev/icons?i=sass" width="55px" alt="Sass icon"/><br>
       <sub>
         <b>
           <pre>Sass</pre>
@@ -89,7 +89,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=discord" width="65px" alt="Axios icon"/><br>
+      <img src="https://skillicons.dev/icons?i=discord" width="55px" alt="Axios icon"/><br>
       <sub>
         <b>
           <pre>discord</pre>
@@ -97,7 +97,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55px" alt="NodeJS icon"/><br>
       <sub>
         <b>
           <pre>NodeJS</pre>
@@ -105,7 +105,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="NodeJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=cpp" width="55px" alt="NodeJS icon"/><br>
       <sub>
         <b>
           <pre>C++</pre>
@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=regex" width="65px" alt="Regex icon"/><br>
+      <img src="https://skillicons.dev/icons?i=regex" width="55px" alt="Regex icon"/><br>
       <sub>
         <b>
           <pre>Regex</pre>
@@ -123,7 +123,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="65px" alt="Insomnia icon"/><br>
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="55px" alt="Insomnia icon"/><br>
       <sub>
         <b>
           <pre>visualstudio</pre>
@@ -131,7 +131,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="postman icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="55px" alt="postman icon"/><br>
       <sub>
         <b>
           <pre>postman</pre>
@@ -139,7 +139,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=jquery" width="55px" alt="JQuery icon"/><br>
       <sub>
         <b>
           <pre>JQuery</pre>
@@ -147,7 +147,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=firebase" width="55px" alt="JQuery icon"/><br>
       <sub>
         <b>
           <pre>firebase</pre>
@@ -157,7 +157,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=js" width="55px" alt="Javascript icon"/><br>
       <sub>
         <b>
           <pre>Javascript</pre>
@@ -165,7 +165,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br>
       <sub>
         <b>
           <pre>CSS3</pre>
@@ -173,7 +173,7 @@
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br>
       <sub>
         <b>
           <pre>HTML5</pre>
@@ -181,7 +181,7 @@
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <img src="https://skillicons.dev/icons?i=git" width="55px" alt="Git icon"/><br>
       <sub>
         <b>
           <pre>Git</pre>
@@ -189,7 +189,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="55px" alt="bash icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
@@ -199,7 +199,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="55px" alt="visual studio code icon"/><br>
       <sub>
         <b>
           <pre>VSCode</pre>
