@@ -27,8 +27,8 @@
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<a href="https://ibb.co/0Mhfcdx"><img width="245px" src="https://i.ibb.co/Wygc6YL/garoto-programa.png" alt="garoto-programa" border="0"></a>
-<table align="right" height="250px">
+<img align="left" width="25%" src="https://gifdb.com/images/high/aesthetic-anime-delete-my-life-kohgafde3t1qxn58.gif" alt="garoto-programa" border="0">
+<table align="right" width="60%" height="250px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=angular" width="55px" alt="Angular icon"/><br>
