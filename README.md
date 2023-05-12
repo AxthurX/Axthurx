@@ -105,7 +105,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" width="55px" alt="NodeJS icon"/><br>
+      <img src="https://skillicons.dev/icons?i=cs" width="55px" alt="NodeJS icon"/><br>
       <sub>
         <b>
           <pre>C++</pre>
@@ -147,7 +147,7 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase" width="55px" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=pr" width="55px" alt="JQuery icon"/><br>
       <sub>
         <b>
           <pre>firebase</pre>
