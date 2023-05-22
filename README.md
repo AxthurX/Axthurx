@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=+Arthur+Martins" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=80&color=F7F7F7&width=435&lines=+Arthur+Martins" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=80&color=F7F7F7&width=435&lines=Dev" alt="Typing SVG" /></a>
 
 <img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
 
@@ -27,7 +27,7 @@
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<img align="left" width="25%" src="https://gifdb.com/images/high/aesthetic-anime-delete-my-life-kohgafde3t1qxn58.gif" alt="garoto-programa" border="0">
+<img align="left" width="25%" src="https://gifdb.com/images/high/aesthetic-anime-delete-my-life-kohgafde3t1qxn58.gif" alt="enter" border="0">
 <table align="right" width="60%" height="250px">
   <tr>
     <td align="center">
