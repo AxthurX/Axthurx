@@ -21,19 +21,20 @@
 </table>
 
 <ul align="left">
-   print("""
-  Código nosso que estás em C
-  Santificado seja vós, Console
-  Venha a nós o vosso array[10]
-  E seja feita, sim, {vossa chave}
-  Assim no if{} como no else{}
-  O for (nosso; de cada dia; nos dai hoje++)
-  Debugai as nossas sentenças
-  Assim como nós colocamos o ponto e vígula esquecido;
-          E não nos deixeis errar identação
-  Mas livrai-nos das funções recursivas
-  A main()
-""")
+  <p>🚩</p>
+  <p>
+    Código nosso que estás em C
+    Santificado seja vós, Console
+    Venha a nós o vosso array[10]
+    E seja feita, sim, {vossa chave}
+    Assim no if{} como no else{}
+    O for (nosso; de cada dia; nos dai hoje++)
+    Debugai as nossas sentenças
+    Assim como nós colocamos o ponto e vígula esquecido;
+    E não nos deixeis errar identação
+    Mas livrai-nos das funções recursivas
+    A main()
+  </p>
 </ul>
 <br>
 
