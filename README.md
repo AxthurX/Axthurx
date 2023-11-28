@@ -101,14 +101,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=discord" width="55px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>discord</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55px" alt="NodeJS icon"/><br>
       <sub>
         <b>
@@ -239,12 +231,6 @@
   </a>
   <a href="https://www.linkedin.com/in/arthur-martins-a5516214a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
-  </a>
-   <a href="https://wa.me/55669999999999?text=Yo,%20sinta-se%20livre%20para%20entrar%20em%20contato%20comigo." target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp badge">
-  </a>
-  <a href="https://t.me/Arthur martins" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram badge">
   </a>
   <a href="https://www.instagram.com/axthurx/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
