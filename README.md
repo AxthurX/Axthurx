@@ -116,6 +116,14 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux /<br>Windows</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -130,7 +138,7 @@
       <img src="https://skillicons.dev/icons?i=visualstudio" width="55px" alt="Insomnia icon"/><br>
       <sub>
         <b>
-          <pre>visualstudio</pre>
+          <pre>Visual Studio</pre>
         </b>
       </sub>
     </td>
@@ -209,15 +217,7 @@
           <pre>VSCode</pre>
         </b>
       </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux /<br>Windows</pre>
-        </b>
-      </sub>
-    </td>
+    </td>  
   </tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
