@@ -67,10 +67,80 @@
       </sub>
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>CSS3</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+   <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="55px" alt="C# icon"/><br>
+      <sub>
+        <b>
+          <pre>C#</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width="55px" alt=".Net Core icon"/><br>
+      <sub>
+        <b>
+          <pre>.Net Core</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="55px" alt="C icon"/><br>
+      <sub>
+        <b>
+          <pre>C</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="55px" alt="Git Hub icon"/><br>
+      <sub>
+        <b>
+          <pre>Git Hub</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="55px" alt="mysql icon"/><br>
       <sub>
         <b>
-          <pre>mysql</pre>
+          <pre>Mysql</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="55px" alt="Npm icon"/><br>
+      <sub>
+        <b>
+          <pre>Npm</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="55px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
         </b>
       </sub>
     </td>
@@ -82,8 +152,6 @@
         </b>
       </sub>
     </td>
-  </tr>
-    <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="55px" alt="Styled Components icon"/><br>
       <sub>
@@ -100,56 +168,9 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs" width="55px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>C++</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
-      <sub>
-        <b>
-          <pre>Linux /<br>Windows</pre>
-        </b>
-      </sub>
-    </td>
   </tr>
+
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=regex" width="55px" alt="Regex icon"/><br>
-      <sub>
-        <b>
-          <pre>Regex</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="55px" alt="Insomnia icon"/><br>
-      <sub>
-        <b>
-          <pre>Visual Studio</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="55px" alt="postman icon"/><br>
-      <sub>
-        <b>
-          <pre>postman</pre>
-        </b>
-      </sub>
-    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=jquery" width="55px" alt="JQuery icon"/><br>
       <sub>
@@ -159,56 +180,39 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pr" width="55px" alt="JQuery icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postman" width="55px" alt="postman icon"/><br>
       <sub>
         <b>
-          <pre>firebase</pre>
+          <pre>Postman</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="55px" alt="Swagger icon"/><br>
+      <sub>
+        <b>
+          <pre>Swagger</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55px" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td> 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=regex" width="55px" alt="Regex icon"/><br>
+      <sub>
+        <b>
+          <pre>Regex</pre>
         </b>
       </sub>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="55px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>CSS3</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="55px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Git</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="55px" alt="bash icon"/><br>
-      <sub>
-        <b>
-          <pre>Terminal</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
+  
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="55px" alt="visual studio code icon"/><br>
@@ -217,7 +221,39 @@
           <pre>VSCode</pre>
         </b>
       </sub>
-    </td>  
+    </td> 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="55px" alt="Visual Studio icon"/><br>
+      <sub>
+        <b>
+          <pre>Visual Studio</pre>
+        </b>
+      </sub>
+    </td> 
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="55px" alt="Android studio icon"/><br>
+      <sub>
+        <b>
+          <pre>Android Studio</pre>
+        </b>
+      </sub>
+    </td> 
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/205502680-8c4634eb-5032-446c-a5ff-d669a0fa787c.png" width="80px" alt="Linux and Windows icon"/><br>
+      <sub>
+        <b>
+          <pre>Linux /<br>Windows</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="55px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Terminal</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
