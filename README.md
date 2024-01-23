@@ -1,8 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=80&color=F7F7F7&width=435&lines=+Arthur+Martins" alt="Typing SVG" /></a>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=80&color=F7F7F7&width=435&lines=Dev" alt="Typing SVG" /></a>
-
-<img src="https://user-images.githubusercontent.com/86276393/202559929-a3048637-3de9-4b82-a61e-537a32de50fe.jpg" alt="waifu" height="40px" />
 
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
