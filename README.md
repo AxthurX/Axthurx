@@ -9,14 +9,14 @@
 
 <table align="center">
   <tr>
-    <td>
+    <th>
       <b>
         <a href="README.md">🇧🇷 Português</a>
       </b>
-    </td>
-    <td>
+    </th>
+    <th>
       <a href="readme-en.md">🇺🇸 English</a>
-    </td>
+    </th>
   </tr>
 </table>
 
@@ -83,7 +83,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
    <td align="center">
       <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width="55px" alt="C# icon"/><br>
@@ -126,7 +125,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="55px" alt="Npm icon"/><br>
@@ -276,3 +274,5 @@
   </a>
 </p>
 <br><br><br>
+![Snake animation](https://github.com/AxthurX/AxthurX/blob/output/github-contribution-grid-snake.svg)
+
