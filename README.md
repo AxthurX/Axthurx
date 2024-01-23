@@ -1,19 +1,19 @@
-<br>
 <div align="center">
   <img src="https://i.postimg.cc/KvPT8WLk/axthurx.png" alt="Arthur img" />
 </div>
 <br>
+
 <h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
 <img align="right" src="./images/analysis.gif" width="370px" height="300px" alt="anime chilling">
 
 <table align="center">
   <tr>
-    <th align="center">
+    <th>
       <b>
         <a href="README.md">🇧🇷 Português</a>
       </b>
     </th>
-    <th align="center">
+    <th>
       <a href="readme-en.md">🇺🇸 English</a>
     </th>
   </tr>
