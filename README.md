@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://i.postimg.cc/KvPT8WLk/axthurx.png" alt="Arthur img" />
 </div>
-<br>
 
 <ul align="left">
   <p>
