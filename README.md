@@ -3,21 +3,7 @@
 </div>
 <br>
 
-<table align="center">
-  <tr>
-    <th>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
-    </th>
-    <th>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </th>
-  </tr>
-</table>
-
 <ul align="left">
-  <p>🚩</p>
   <p>
     Código nosso que estás em C
     Santificado seja vós, Console
