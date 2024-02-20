@@ -1,24 +1,7 @@
 <div align="center">
   <img src="https://i.postimg.cc/KvPT8WLk/axthurx.png" alt="Arthur img" />
 </div>
-
-<ul align="left">
-  <p>
-    Código nosso que estás em C
-    Santificado seja vós, Console
-    Venha a nós o vosso array[10]
-    E seja feita, sim, {vossa chave}
-    Assim no if{} como no else{}
-    O for (nosso; de cada dia; nos dai hoje++)
-    Debugai as nossas sentenças
-    Assim como nós colocamos o ponto e vígula esquecido;
-    E não nos deixeis errar identação
-    Mas livrai-nos das funções recursivas
-    A main()
-  </p>
-</ul>
 <br>
-
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
 <img align="left" width="25%" src="https://gifdb.com/images/high/aesthetic-anime-delete-my-life-kohgafde3t1qxn58.gif" alt="enter" border="0">
 <table align="right" width="60%" height="250px">
