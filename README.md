@@ -125,14 +125,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="55px" alt="Swagger icon"/><br>
-      <sub>
-        <b>
-          <pre>Swagger</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55px" alt="NodeJS icon"/><br>
       <sub>
         <b>
@@ -140,16 +132,7 @@
         </b>
       </sub>
     </td> 
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=regex" width="55px" alt="Regex icon"/><br>
-      <sub>
-        <b>
-          <pre>Regex</pre>
-        </b>
-      </sub>
-    </td>
   </tr>
-  
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="55px" alt="visual studio code icon"/><br>
