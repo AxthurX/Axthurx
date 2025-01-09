@@ -80,14 +80,6 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55px" alt="mysql icon"/><br>
-      <sub>
-        <b>
-          <pre>Mysql</pre>
-        </b>
-      </sub>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -131,7 +123,6 @@
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=jquery" width="55px" alt="JQuery icon"/><br>
