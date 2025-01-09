@@ -65,14 +65,6 @@
       </sub>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="55px" alt="C icon"/><br>
-      <sub>
-        <b>
-          <pre>C</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="55px" alt="Git Hub icon"/><br>
       <sub>
         <b>
