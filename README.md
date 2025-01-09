@@ -46,22 +46,6 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" width="55px" alt="postman icon"/><br>
-      <sub>
-        <b>
-          <pre>Postman</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="55px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJS</pre>
-        </b>
-      </sub>
-    </td> 
   </tr>
   <tr>
    <td align="center">
@@ -85,6 +69,22 @@
       <sub>
         <b>
           <pre>Git Hub</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="55px" alt="NodeJS icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJS</pre>
+        </b>
+      </sub>
+    </td> 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="55px" alt="postman icon"/><br>
+      <sub>
+        <b>
+          <pre>Postman</pre>
         </b>
       </sub>
     </td>
