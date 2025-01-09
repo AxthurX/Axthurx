@@ -117,14 +117,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=jquery" width="55px" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>JQuery</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=postman" width="55px" alt="postman icon"/><br>
       <sub>
         <b>
