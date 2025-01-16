@@ -186,7 +186,7 @@
   <a href="https://www.linkedin.com/in/arthur-martins-a5516214a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
   </a>
-  <a href="https://www.instagram.com/axthurx/" target="_blank">
+  <a href="https://www.instagram.com/arthurxmartins/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
   </a>
   <a href="https://stackoverflow.com/users/20879575/arthurx" target="_blank">
