@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://i.postimg.cc/KvPT8WLk/axthurx.png" alt="Arthur img" />
-</div>
+# C:\Users\Arthur martins\Documents\
+
+**`Software engineer`**
+
+## 🛠️ Tecnologias
 
 <section>
-  <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-
   <div style="display: flex; align-items: center;">
     <img src="https://gifdb.com/images/high/aesthetic-anime-delete-my-life-kohgafde3t1qxn58.gif" alt="Anime entrance gif" align="left" width="25%" style="border: none;" />
     <table align="right" width="60%" height="250px">
@@ -39,23 +39,26 @@
     </table>
   </div>
 </section>
+
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ S</i></h2>
-<img align="left" width="185px" src="https://i.pinimg.com/originals/6f/79/76/6f797684a8c8c13fee9523c190bf72ec.gif" alt="anime coding">
+## 📩 Contatos
+
+<img align="left" width="185px" src="https://i.pinimg.com/originals/6f/79/76/6f797684a8c8c13fee9523c190bf72ec.gif" alt="Anime coding">
+
 <br><br>
 <p align="center">
-  <a href="mailto:arthurmartins696@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-martins-a5516214a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
-  </a>
-  <a href="https://www.instagram.com/arthurxmartins/" target="_blank">
+  <a href="https://www.instagram.com/arthurxmartins" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge">
+  </a>
+  <a href="https://www.linkedin.com/in/arthurxmartins" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge">
   </a>
   <a href="https://stackoverflow.com/users/20879575/arthurx" target="_blank">
     <img src="https://user-images.githubusercontent.com/86276393/194973392-6c133c92-13a3-4659-8fb1-08073cd1b417.png" alt="Stack Overflow badge">
+  </a>
+  <a href="mailto:arthurmartins696@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge">
   </a>
 </p>
 <br>
